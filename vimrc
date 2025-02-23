@@ -64,4 +64,3 @@ call TrimWhitespace()
 
 " Automatically call TrimWhitespace before saving any file
 autocmd BufWritePre * call TrimWhitespace()
-```
